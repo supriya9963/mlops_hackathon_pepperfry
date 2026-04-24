@@ -1,9 +1,15 @@
 # 🚗 🛋️ MLOps Project: SUV & Furniture Price Prediction
 
 ## 📌 Project Overview
-This repository contains an end-to-end MLOps pipeline designed to solve pricing estimation problems using Machine Learning. It features two main projects:
-1. **SUV Price Prediction:** Estimating resale values for used vehicles.
-2. **Pepperfry Sofa Analysis:** Scraping and analyzing furniture market data to predict 2-seater sofa prices.
+This repository contains an end-to-end MLOps pipeline designed to solve pricing estimation problems using Machine Learning and Prompt Engineering. It features two core solutions:
+1. **SUV Price Prediction:** Resale value estimation for college transport departments.
+2. **Pepperfry Price Optimizer:** Market-driven pricing for new furniture businesses.
+
+## 🌟 Business Case: The Furniture Challenge
+**The Scenario:** A friend has designed a new **contemporary 2-seater sofa set** and needs to determine the optimal online selling price. 
+**Our Solution:** - **Inventory Benchmarking:** As suggested by the business owner, we targeted sites with the **maximum online inventory** (Pepperfry) to scrape real-world competitor data.
+- **Prompt Engineering:** Utilized advanced prompts to build robust **Selenium + XPath** scrapers and to engineer features like "Brand Popularity Scores."
+- **Decision Support:** Using ML, we provide a data-backed price that ensures the new contemporary design is competitive yet profitable against established brands.
 
 ## 📁 Repository Artifacts
 | Category | Files |
@@ -14,17 +20,12 @@ This repository contains an end-to-end MLOps pipeline designed to solve pricing 
 | **📓 Notebooks** | `stage3_eda.ipynb`, `stage4_training.ipynb`, `stage5_deployment.ipynb` |
 | **🐍 Scripts** | `app.py`, `pepperfry_scraper.py`, `stage6_streamlit_app.py` |
 
-## 🎯 Problem Statement
-A college transport department needs a data-driven system to estimate fair market prices for selling old SUV vehicles. Additionally, we expanded the scope to include the furniture market, scraping real-time data from **Pepperfry** to understand how brand popularity and material impact pricing.
-
 ## 🧠 MLOps Pipeline
-1. **Data Acquisition:** Web scraping using **Selenium and XPath** for real-time furniture data.
-2. **EDA:** Statistical analysis and visualization of price trends and feature correlations.
-3. **Model Development:** Training regression models (Gradient Boosting, Random Forest) using Scikit-learn.
-4. **Serialization:** Saving artifacts (`.pkl`) for reproducible deployment.
-5. **Deployment:** - **API:** Flask backend for real-time inference.
-   - **Frontend:** Streamlit UI for user interaction.
-   - **Networking:** Public exposure via `ngrok`.
+1. **Data Acquisition:** Selenium-based scraping of high-inventory furniture platforms.
+2. **Feature Engineering:** Calculation of brand popularity ranges (1-10) and material-based price weighting.
+3. **Model Development:** Trained Gradient Boosting and Random Forest Regressors for precise estimation.
+4. **Serialization:** Artifacts saved as `.pkl` for seamless deployment.
+5. **Deployment:** Flask API for backend logic and Streamlit for the friend's business dashboard.
 
 ## ⚙️ Tech Stack
 - **Language:** Python 🐍
@@ -39,10 +40,10 @@ A college transport department needs a data-driven system to estimate fair marke
 4. **Run UI:** `streamlit run stage6_streamlit_app.py`
 
 ## 👨‍💻 Authors
-- **R.Sanjana** — B.Tech CSE
-- **K.Supriya** — B.Tech CSE
-- **B.Laxmi Prasanna** — B.Tech CSE
-- **G.Satwika** — B.Tech CSE
+- **R. Sanjana** — B.Tech CSE
+- **K. Supriya** — B.Tech CSE
+- **B. Laxmi Prasanna** — B.Tech CSE
+- **G. Satwika** — B.Tech CSE
 
 ---
 ⭐ *If you find this project useful, please star the repository!*
