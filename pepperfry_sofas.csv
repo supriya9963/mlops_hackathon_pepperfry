@@ -1,0 +1,201 @@
+product_id,product_name,brand,price_inr,discounted_price_inr,discount_percent,material,color,seater_type,dimensions_cm,weight_kg,rating,num_reviews,style_category,cushion_type,leg_material,assembly_required,warranty_years,in_stock
+P001,Frejol Velvet 2 Seater Sofa In Steel Grey Colour,Hometown,19674,16100,18,Fabric,Steel Grey,2 Seater,172x76x84,36.7,3.6,258,Vintage,Coil Spring,Sheesham Wood,Yes,1,Yes
+P002,Jessy Fabric 2 Seater Sofa In Grey Colour,Zuari,35213,31700,10,PU Leather,Grey,2 Seater,172x76x84,73.4,4.0,179,Vintage,High Resilience Foam,Walnut Wood,No,10,Yes
+P003,Bari Leatherette 2 Seater Sofa In Earthy Brown Colour,Recliners India,36424,29500,19,Chenille,Earthy Brown,2 Seater,176x80x84,64.5,5.0,407,Modern,Foam + Spring,Metal,No,10,Yes
+P004,Alejandro Velvet 2 Seater Sofa In Tan Colour,Damro,37615,33100,12,Jacquard Fabric,Tan,2 Seater,168x73x78,82.7,4.1,484,Traditional,Pocket Spring,Stainless Steel,Yes,2,Yes
+P005,Miranda Chenille 2 Seater Sofa In Charcoal Colour,Nilkamal,28752,25300,12,Jacquard Fabric,Charcoal,2 Seater,174x78x84,44.0,4.1,590,Classic,Pocket Spring,Plastic,Yes,10,Yes
+P006,Andres Chenille 2 Seater Sofa In Off White Colour,Urban Ladder,13456,10400,23,Genuine Leather,Off White,2 Seater,176x79x84,83.2,4.0,531,Rustic,Foam,Solid Oak,No,2,Yes
+P007,Luxor Leatherette 2 Seater Sofa In Rustic Brown Colour,Furlenco,81176,68200,16,Linen,Rustic Brown,2 Seater,190x85x90,47.1,5.0,541,Casual,Foam + Fibre,Sheesham Wood,No,10,Yes
+P008,Scandic Wooden 2 Seater Sofa In Earthy Brown Colour,Urban Ladder,16304,13500,17,Chenille,Earthy Brown,2 Seater,185x84x86,67.8,4.2,277,Scandinavian,Foam + Fibre,Solid Oak,No,10,No
+P009,Casper Velvet 2 Seater Sofa In Light Brown Colour,Wakefit,49247,44300,10,Chenille,Light Brown,2 Seater,174x78x84,60.0,4.9,289,Luxury,High Resilience Foam,Solid Oak,No,1,No
+P010,Nordic Linen 2 Seater Sofa In Earthy Brown Colour,Nilkamal,40294,31400,22,Printed Fabric,Earthy Brown,2 Seater,180x82x86,87.4,4.9,20,Modern,Coil Spring,Plastic,Yes,1,Yes
+P011,Elegance Suede 2 Seater Sofa In Caramel Colour,Wakefit,11403,9100,20,Chenille,Caramel,2 Seater,165x72x78,79.9,5.0,565,Classic,Coil Spring,Sheesham Wood,Yes,10,Yes
+P012,Brio Polyester 2 Seater Sofa In Carbon Grey Colour,@home,31681,27200,14,Top Grain Leather,Carbon Grey,2 Seater,185x80x88,56.9,4.5,402,Scandinavian,Coil Spring,Brass Finished Wood,No,2,Yes
+P013,Luxe PU Leather 2 Seater Sofa In Floral Pink Colour,Furlenco,29642,26100,12,Chenille,Floral Pink,2 Seater,176x79x84,35.4,4.6,80,Mid-Century Modern,Pocket Spring,Metal,Yes,10,Yes
+P014,Heritage Teak 2 Seater Sofa In Graphite Colour,Urban Ladder,31852,24500,23,Polyester,Graphite,2 Seater,174x78x84,66.7,3.9,504,Modern,High Resilience Foam,Sheesham Wood,No,2,Yes
+P015,Studio Cotton 2 Seater Sofa In Ash Grey Colour,Hometown,11612,10900,6,Chenille,Ash Grey,2 Seater,178x80x86,57.1,4.0,131,Luxury,Foam + Spring,Mango Wood,No,5,Yes
+P016,Zen Recliner 2 Seater Sofa In Ash Grey Colour,Zuari,17260,13500,22,Microsuede,Ash Grey,2 Seater,174x78x84,40.4,4.5,573,Scandinavian,Foam + Spring,Solid Wood,No,2,Yes
+P017,Classic Leather 2 Seater Sofa In Beige Colour,Stanley,26210,24900,5,Microfiber,Beige,2 Seater,172x76x82,89.2,3.9,485,Minimalist,Feather + Foam,Reclaimed Wood,No,1,Yes
+P018,Bloom Jacquard 2 Seater Sofa In Sky Blue Colour,Zuari,15138,14200,6,Handloom Cotton,Sky Blue,2 Seater,172x76x82,37.8,4.2,563,Scandinavian,Pocket Spring,Teak Wood,Yes,10,Yes
+P019,Futon Convertible 2 Seater Sofa In Floral Pink Colour,Pepperfry,19333,17000,12,Microfiber,Floral Pink,2 Seater,185x84x86,66.8,3.6,103,Modern,Bonded Foam,Metal,Yes,3,Yes
+P020,Royale Silk Velvet 2 Seater Sofa In Royal Blue Colour,Featherlite,47970,43700,9,Printed Fabric,Royal Blue,2 Seater,185x84x86,71.9,3.9,343,Classic,Coil Spring,Sheesham Wood,No,2,No
+P021,Maven Faux Leather 2 Seater Sofa In Rustic Brown Colour,Pepperfry,28289,24600,13,Fabric,Rustic Brown,2 Seater,168x74x82,42.3,4.0,90,Bohemian,Bonded Foam,Solid Rosewood,Yes,7,Yes
+P022,Comfort Plus Fabric 2 Seater Sofa In Charcoal Colour,Woodcraft,38395,34900,9,Microfiber,Charcoal,2 Seater,175x78x82,49.5,4.8,586,Bohemian,High Resilience Foam,Stainless Steel,Yes,7,Yes
+P023,Aria Fabric 2 Seater Sofa In Tan Colour,Damro,71458,67200,6,PU Leather,Tan,2 Seater,185x84x86,40.1,4.1,303,Vintage,Memory Foam,Sheesham Wood,No,7,Yes
+P024,Imperio PU Leather 2 Seater Sofa In Off White Colour,Godrej Interio,11832,11000,7,Suede,Off White,2 Seater,188x86x92,87.0,4.5,172,Scandinavian,Feather + Foam,Brass Finished Wood,No,7,Yes
+P025,Meadow Handloom 2 Seater Sofa In Cognac Colour,Springwel,15862,14100,11,Top Grain Leather,Cognac,2 Seater,165x72x78,72.5,4.5,382,Scandinavian,Foam + Spring,Solid Wood,No,3,Yes
+P026,Posh Velvet 2 Seater Sofa In Graphite Colour,IKEA,32068,27300,15,Linen,Graphite,2 Seater,170x75x80,78.0,4.1,274,Mid-Century Modern,Foam + Fibre,Solid Oak,No,1,Yes
+P027,Serene Microsuede 2 Seater Sofa In Dark Green Colour,Hometown,45001,39600,12,Silk Velvet,Dark Green,2 Seater,172x76x84,47.3,4.5,428,Rustic,Foam,Reclaimed Wood,Yes,5,Yes
+P028,Tropicana Printed 2 Seater Sofa In Light Brown Colour,Pepperfry,14279,12900,10,Suede,Light Brown,2 Seater,185x84x86,66.9,5.0,59,Classic,High Resilience Foam,Walnut Wood,No,1,Yes
+P029,Monarch Leather 2 Seater Sofa In Black Colour,Springwel,24174,22700,6,Polyester,Black,2 Seater,168x74x82,74.0,3.5,571,Minimalist,Bonded Foam,Brass Finished Wood,No,10,Yes
+P030,Plush Fabric 2 Seater Sofa In Burgundy Colour,Durian,51618,44400,14,Jacquard Fabric,Burgundy,2 Seater,176x79x84,71.7,4.0,322,Minimalist,High Density Foam,Plastic,No,1,Yes
+P031,Vintage Reclaimed 2 Seater Sofa In Ash Grey Colour,IKEA,14978,12900,14,Silk Velvet,Ash Grey,2 Seater,183x84x88,46.6,4.7,349,Luxury,Foam + Fibre,Solid Rosewood,No,3,Yes
+P032,Alesund Fabric 2 Seater Sofa In Mustard Yellow Colour,Durian,38061,33500,12,Printed Fabric,Mustard Yellow,2 Seater,168x73x78,72.0,3.8,223,Bohemian,Foam + Fibre,Plastic,No,7,Yes
+P033,Regal Chesterfield 2 Seater Sofa In Cream Colour,Stanley,81192,71400,12,Handloom Cotton,Cream,2 Seater,178x80x86,43.1,4.5,129,Traditional,High Density Foam,Reclaimed Wood,Yes,3,Yes
+P034,Compact Polyester 2 Seater Sofa In Teal Colour,Nilkamal,33131,26800,19,Printed Fabric,Teal,2 Seater,172x76x84,71.7,5.0,344,Bohemian,Foam,Brass Finished Wood,Yes,5,No
+P035,Comfy Microfiber 2 Seater Sofa In Graphite Colour,Furlenco,43102,32300,25,Printed Fabric,Graphite,2 Seater,170x75x80,50.3,4.7,516,Minimalist,High Resilience Foam,Reclaimed Wood,No,5,Yes
+P036,Havana Leather 2 Seater Sofa In Dark Blue Colour,Furlenco,12267,11200,9,Leatherette,Dark Blue,2 Seater,174x78x84,47.7,4.5,239,Vintage,Coil Spring,Sheesham Wood,No,3,Yes
+P037,Porto Velvet 2 Seater Sofa In Black Colour,Recliners India,19432,16100,17,Top Grain Leather,Black,2 Seater,172x76x82,61.2,4.9,325,Bohemian,Foam + Spring,Wood,No,3,Yes
+P038,Cairo Linen 2 Seater Sofa In Light Brown Colour,IKEA,24472,20100,18,Top Grain Leather,Light Brown,2 Seater,185x80x88,61.7,4.1,434,Vintage,High Resilience Foam,Solid Oak,Yes,5,Yes
+P039,Oslo Fabric 2 Seater Sofa In Cognac Colour,Furlenco,63894,51800,19,Linen,Cognac,2 Seater,178x80x84,45.0,3.9,355,Traditional,High Resilience Foam,Wood,Yes,1,Yes
+P040,Kyoto Suede 2 Seater Sofa In Off White Colour,Recliners India,15733,13800,12,Silk Velvet,Off White,2 Seater,168x73x78,70.8,4.7,61,Casual,Foam + Spring,Teak Wood,No,1,Yes
+P041,Lima Cotton 2 Seater Sofa In Teal Colour,Durian,27620,24000,13,Fabric,Teal,2 Seater,168x78x80,77.2,3.8,137,Traditional,Foam + Fibre,Sheesham Wood,No,1,Yes
+P042,Vienna Chenille 2 Seater Sofa In Ivory Colour,Woodcraft,21246,16400,23,Chenille,Ivory,2 Seater,183x84x88,73.0,4.4,124,Traditional,Foam,Teak Wood,No,3,Yes
+P043,Berlin Fabric 2 Seater Sofa In Tan Colour,Damro,79286,73700,7,Chenille,Tan,2 Seater,165x72x78,62.8,4.0,450,Industrial,Bonded Foam,Solid Oak,No,7,Yes
+P044,Roma Leatherette 2 Seater Sofa In Dark Brown Colour,IKEA,52635,42100,20,Jacquard Fabric,Dark Brown,2 Seater,168x78x80,60.6,4.7,294,Luxury,Feather + Foam,Stainless Steel,No,1,Yes
+P045,Seoul Velvet 2 Seater Sofa In Teal Colour,Pepperfry,18098,15400,15,Suede,Teal,2 Seater,180x80x85,45.0,3.8,284,Bohemian,Pocket Spring,Solid Oak,No,3,Yes
+P046,Dubai Leather 2 Seater Sofa In Graphite Colour,Damro,87020,67900,22,Suede,Graphite,2 Seater,172x76x82,76.7,4.5,522,Artisanal,Foam,Brass Finished Wood,Yes,2,Yes
+P047,Paris Jacquard 2 Seater Sofa In Grey Colour,Pepperfry,50508,39400,22,Cotton Fabric,Grey,2 Seater,172x76x84,64.2,4.1,583,Mid-Century Modern,Foam + Spring,Stainless Steel,No,10,Yes
+P048,Tokyo Microfiber 2 Seater Sofa In Sky Blue Colour,Furlenco,18779,16900,10,Suede,Sky Blue,2 Seater,168x74x82,45.5,4.6,303,Casual,Coil Spring,Sheesham Wood,Yes,3,Yes
+P049,Sydney Fabric 2 Seater Sofa In Earthy Brown Colour,Evok,35464,27700,22,Cotton Fabric,Earthy Brown,2 Seater,172x76x84,42.0,3.6,75,Modern,Pocket Spring,Teak Wood,No,1,Yes
+P050,Tochi Fabric 2 Seater Sofa In Sky Blue Colour,Godrej Interio,77329,69600,10,Handloom Cotton,Sky Blue,2 Seater,175x78x82,88.1,3.9,509,Modern,Foam,Solid Rosewood,No,5,Yes
+P051,Frejol Velvet 2 Seater Sofa In Beige Colour,Sarita Handa,33290,25600,23,Handloom Cotton,Beige,2 Seater,185x84x86,87.2,3.6,274,Modern,Bonded Foam,Plastic,Yes,1,Yes
+P052,Jessy Fabric 2 Seater Sofa In Earthy Brown Colour,IKEA,75014,57800,23,Genuine Leather,Earthy Brown,2 Seater,180x80x85,69.2,4.4,121,Industrial,High Resilience Foam,Walnut Wood,No,2,No
+P053,Bari Leatherette 2 Seater Sofa In Ash Grey Colour,Durian,12564,11900,5,Suede,Ash Grey,2 Seater,172x76x84,57.5,4.5,501,Luxury,High Density Foam,Solid Wood,Yes,7,Yes
+P054,Alejandro Velvet 2 Seater Sofa In Teal Colour,Woodcraft,26966,24800,8,Cotton Fabric,Teal,2 Seater,185x84x86,65.0,4.5,292,Vintage,Feather + Foam,Metal,Yes,2,Yes
+P055,Miranda Chenille 2 Seater Sofa In Beige Colour,Urban Ladder,17679,15200,14,Microfiber,Beige,2 Seater,190x85x90,73.5,4.9,532,Industrial,Coil Spring,Solid Rosewood,No,5,Yes
+P056,Andres Chenille 2 Seater Sofa In Mustard Yellow Colour,Pepperfry,31048,23900,23,Velvet,Mustard Yellow,2 Seater,174x78x84,67.3,3.5,295,Minimalist,Memory Foam,Solid Rosewood,Yes,1,Yes
+P057,Luxor Leatherette 2 Seater Sofa In Earthy Brown Colour,Nilkamal,17700,14900,16,Handloom Cotton,Earthy Brown,2 Seater,170x75x80,57.5,4.0,127,Artisanal,Feather + Foam,Teak Wood,No,5,Yes
+P058,Scandic Wooden 2 Seater Sofa In Off White Colour,IKEA,15153,13200,13,Handloom Cotton,Off White,2 Seater,182x80x88,52.8,5.0,433,Casual,Foam + Spring,Solid Oak,Yes,5,Yes
+P059,Casper Velvet 2 Seater Sofa In Cognac Colour,Wakefit,83970,78900,6,Top Grain Leather,Cognac,2 Seater,172x76x82,46.2,4.3,314,Bohemian,Foam + Spring,Wood,No,10,Yes
+P060,Nordic Linen 2 Seater Sofa In Sky Blue Colour,@home,19048,15600,18,Chenille,Sky Blue,2 Seater,172x76x84,40.1,5.0,136,Contemporary,Bonded Foam,Solid Oak,Yes,2,Yes
+P061,Elegance Suede 2 Seater Sofa In Dark Brown Colour,Godrej Interio,85948,75600,12,Handloom Cotton,Dark Brown,2 Seater,188x86x92,60.1,3.7,215,Vintage,Coil Spring,Brass Finished Wood,No,3,No
+P062,Brio Polyester 2 Seater Sofa In Floral Pink Colour,Godrej Interio,44784,34500,23,Leatherette,Floral Pink,2 Seater,180x82x86,66.9,4.5,172,Casual,Foam + Spring,Mango Wood,No,1,Yes
+P063,Luxe PU Leather 2 Seater Sofa In Caramel Colour,Springwel,29369,24400,17,Polyester,Caramel,2 Seater,180x80x85,47.8,4.7,64,Artisanal,High Resilience Foam,Walnut Wood,No,2,Yes
+P064,Heritage Teak 2 Seater Sofa In Caramel Colour,Sarita Handa,38289,31000,19,Silk Velvet,Caramel,2 Seater,165x72x78,40.5,4.9,35,Luxury,Foam + Fibre,Reclaimed Wood,Yes,7,Yes
+P065,Studio Cotton 2 Seater Sofa In Black Colour,Godrej Interio,52486,43600,17,Leatherette,Black,2 Seater,185x80x88,87.5,4.4,519,Bohemian,Coil Spring,Mango Wood,No,1,Yes
+P066,Zen Recliner 2 Seater Sofa In Cream Colour,Damro,11646,9400,19,Leatherette,Cream,2 Seater,190x85x90,44.2,3.9,49,Mid-Century Modern,Coil Spring,Sheesham Wood,Yes,3,Yes
+P067,Classic Leather 2 Seater Sofa In Dark Green Colour,Urban Ladder,66801,60100,10,Cotton Fabric,Dark Green,2 Seater,168x78x80,44.6,4.4,411,Classic,Memory Foam,Walnut Wood,Yes,7,Yes
+P068,Bloom Jacquard 2 Seater Sofa In Teal Colour,@home,17622,15200,14,Linen,Teal,2 Seater,174x78x84,72.3,3.7,472,Mid-Century Modern,Feather + Foam,Plastic,No,2,No
+P069,Futon Convertible 2 Seater Sofa In Royal Blue Colour,Woodcraft,61990,54600,12,Faux Leather,Royal Blue,2 Seater,175x78x82,56.0,4.0,322,Vintage,Coil Spring,Reclaimed Wood,Yes,3,No
+P070,Royale Silk Velvet 2 Seater Sofa In Tan Colour,Wakefit,73757,64900,12,Silk Velvet,Tan,2 Seater,185x84x86,68.4,4.0,214,Casual,Foam,Solid Rosewood,Yes,10,Yes
+P071,Maven Faux Leather 2 Seater Sofa In Dusty Rose Colour,Godrej Interio,39307,36600,7,Chenille,Dusty Rose,2 Seater,180x80x85,85.0,4.0,445,Luxury,Foam,Teak Wood,Yes,10,Yes
+P072,Comfort Plus Fabric 2 Seater Sofa In Carbon Grey Colour,Zuari,46100,42400,8,Jacquard Fabric,Carbon Grey,2 Seater,170x75x80,60.8,3.6,251,Artisanal,High Resilience Foam,Teak Wood,No,5,Yes
+P073,Aria Fabric 2 Seater Sofa In Burgundy Colour,Sarita Handa,17451,14700,16,Top Grain Leather,Burgundy,2 Seater,178x80x84,72.0,4.5,410,Classic,High Density Foam,Solid Oak,Yes,2,Yes
+P074,Imperio PU Leather 2 Seater Sofa In Charcoal Colour,Hometown,30612,28500,7,Genuine Leather,Charcoal,2 Seater,182x80x88,69.9,4.2,329,Bohemian,Foam,Solid Rosewood,No,10,Yes
+P075,Meadow Handloom 2 Seater Sofa In Dark Brown Colour,Godrej Interio,26368,21400,19,Velvet,Dark Brown,2 Seater,168x74x82,55.4,4.9,573,Contemporary,Coil Spring,Reclaimed Wood,Yes,2,Yes
+P076,Posh Velvet 2 Seater Sofa In Burgundy Colour,Godrej Interio,16070,14300,11,Faux Leather,Burgundy,2 Seater,185x80x88,59.4,4.9,391,Luxury,High Density Foam,Reclaimed Wood,No,2,Yes
+P077,Serene Microsuede 2 Seater Sofa In Dusty Rose Colour,Springwel,17450,16200,7,Top Grain Leather,Dusty Rose,2 Seater,178x80x84,71.5,4.5,41,Luxury,Memory Foam,Wood,No,2,Yes
+P078,Tropicana Printed 2 Seater Sofa In Off White Colour,Stanley,33322,29300,12,Linen,Off White,2 Seater,168x73x78,53.1,3.7,22,Industrial,Bonded Foam,Sheesham Wood,Yes,10,Yes
+P079,Monarch Leather 2 Seater Sofa In Carbon Grey Colour,Godrej Interio,15869,14000,12,Top Grain Leather,Carbon Grey,2 Seater,185x84x86,67.4,3.5,291,Casual,Foam + Fibre,Metal,Yes,1,Yes
+P080,Plush Fabric 2 Seater Sofa In Burgundy Colour,IKEA,17405,13700,21,Printed Fabric,Burgundy,2 Seater,180x80x85,47.2,4.4,553,Modern,High Density Foam,Reclaimed Wood,No,7,Yes
+P081,Vintage Reclaimed 2 Seater Sofa In Steel Grey Colour,Wakefit,59817,55600,7,Velvet,Steel Grey,2 Seater,185x84x86,52.7,3.7,149,Bohemian,Foam + Spring,Walnut Wood,Yes,5,Yes
+P082,Alesund Fabric 2 Seater Sofa In Steel Grey Colour,Featherlite,61500,56600,8,Top Grain Leather,Steel Grey,2 Seater,185x80x88,81.9,4.5,584,Vintage,Memory Foam,Walnut Wood,No,5,Yes
+P083,Regal Chesterfield 2 Seater Sofa In Ash Grey Colour,IKEA,15120,12400,18,Microsuede,Ash Grey,2 Seater,180x80x85,52.2,3.9,176,Mid-Century Modern,Foam + Spring,Mango Wood,No,3,Yes
+P084,Compact Polyester 2 Seater Sofa In Caramel Colour,Pepperfry,29116,27400,6,Leatherette,Caramel,2 Seater,178x80x86,67.3,4.3,357,Rustic,High Density Foam,Metal,Yes,3,Yes
+P085,Comfy Microfiber 2 Seater Sofa In Black Colour,Springwel,19468,15400,21,Faux Leather,Black,2 Seater,185x80x88,46.7,4.5,249,Rustic,Foam,Teak Wood,No,3,Yes
+P086,Havana Leather 2 Seater Sofa In Charcoal Colour,Zuari,19977,17400,13,Jacquard Fabric,Charcoal,2 Seater,172x76x84,36.6,3.9,336,Modern,Coil Spring,Solid Rosewood,No,7,No
+P087,Porto Velvet 2 Seater Sofa In Charcoal Colour,Wakefit,32141,24100,25,Microfiber,Charcoal,2 Seater,185x84x86,88.4,3.6,563,Rustic,Foam + Fibre,Solid Rosewood,No,1,Yes
+P088,Cairo Linen 2 Seater Sofa In Black Colour,Furlenco,10861,9900,9,Polyester,Black,2 Seater,190x85x90,43.7,4.4,103,Scandinavian,Memory Foam,Teak Wood,No,10,Yes
+P089,Oslo Fabric 2 Seater Sofa In Dusty Rose Colour,IKEA,15655,12800,18,Handloom Cotton,Dusty Rose,2 Seater,174x78x84,41.1,4.5,518,Traditional,Feather + Foam,Walnut Wood,Yes,7,Yes
+P090,Kyoto Suede 2 Seater Sofa In Tan Colour,Urban Ladder,32573,29600,9,Genuine Leather,Tan,2 Seater,160x70x75,77.0,3.9,142,Minimalist,Bonded Foam,Wood,Yes,2,Yes
+P091,Lima Cotton 2 Seater Sofa In Burgundy Colour,IKEA,37362,31000,17,Microfiber,Burgundy,2 Seater,188x86x92,82.4,3.6,39,Scandinavian,Foam + Spring,Brass Finished Wood,Yes,7,Yes
+P092,Vienna Chenille 2 Seater Sofa In Beige Colour,Recliners India,16636,15800,5,Faux Leather,Beige,2 Seater,185x82x88,88.1,3.8,491,Traditional,Foam + Spring,Stainless Steel,No,2,Yes
+P093,Berlin Fabric 2 Seater Sofa In Rustic Brown Colour,Springwel,16484,14200,14,Leatherette,Rustic Brown,2 Seater,178x80x86,76.0,3.8,192,Minimalist,High Density Foam,Sheesham Wood,No,7,Yes
+P094,Roma Leatherette 2 Seater Sofa In Steel Grey Colour,Hometown,21685,19700,9,Printed Fabric,Steel Grey,2 Seater,176x80x84,49.1,3.8,176,Artisanal,Pocket Spring,Solid Oak,No,1,Yes
+P095,Seoul Velvet 2 Seater Sofa In Steel Grey Colour,Pepperfry,45360,41300,9,Microfiber,Steel Grey,2 Seater,192x88x105,59.2,4.2,330,Industrial,Feather + Foam,Reclaimed Wood,No,10,Yes
+P096,Dubai Leather 2 Seater Sofa In Royal Blue Colour,Urban Ladder,16041,13800,14,Jacquard Fabric,Royal Blue,2 Seater,180x80x85,39.2,4.8,112,Artisanal,High Density Foam,Teak Wood,No,1,Yes
+P097,Paris Jacquard 2 Seater Sofa In Floral Pink Colour,Sarita Handa,25268,19200,24,Microsuede,Floral Pink,2 Seater,190x85x90,61.2,3.7,83,Traditional,High Resilience Foam,Solid Oak,Yes,5,Yes
+P098,Tokyo Microfiber 2 Seater Sofa In Dark Green Colour,Recliners India,25963,21800,16,Leatherette,Dark Green,2 Seater,172x76x84,85.5,4.1,366,Artisanal,Foam + Fibre,Wood,No,5,Yes
+P099,Sydney Fabric 2 Seater Sofa In Cream Colour,Recliners India,54750,49800,9,Leatherette,Cream,2 Seater,185x84x86,53.3,4.4,164,Classic,High Density Foam,Brass Finished Wood,No,2,No
+P100,Tochi Fabric 2 Seater Sofa In Tan Colour,Sarita Handa,30980,24500,21,Linen,Tan,2 Seater,182x80x88,40.1,4.5,540,Traditional,High Density Foam,Teak Wood,No,3,Yes
+P101,Frejol Velvet 2 Seater Sofa In Charcoal Colour,Woodcraft,22539,21000,7,Microfiber,Charcoal,2 Seater,180x82x84,51.3,4.7,539,Mid-Century Modern,Memory Foam,Solid Oak,Yes,2,Yes
+P102,Jessy Fabric 2 Seater Sofa In Cognac Colour,Evok,65110,58600,10,Velvet,Cognac,2 Seater,185x80x88,44.9,4.5,189,Luxury,Memory Foam,Solid Oak,Yes,10,Yes
+P103,Bari Leatherette 2 Seater Sofa In Cream Colour,IKEA,28750,25300,12,Jacquard Fabric,Cream,2 Seater,185x80x88,52.0,4.7,500,Luxury,Pocket Spring,Reclaimed Wood,No,5,No
+P104,Alejandro Velvet 2 Seater Sofa In Ash Grey Colour,Springwel,33128,25200,24,Microsuede,Ash Grey,2 Seater,178x80x84,42.6,3.9,512,Bohemian,Coil Spring,Solid Oak,No,1,Yes
+P105,Miranda Chenille 2 Seater Sofa In Olive Green Colour,Hometown,88644,80700,9,Printed Fabric,Olive Green,2 Seater,168x73x78,80.7,3.6,247,Rustic,High Density Foam,Teak Wood,Yes,2,Yes
+P106,Andres Chenille 2 Seater Sofa In Graphite Colour,Springwel,60349,50700,16,Fabric,Graphite,2 Seater,180x82x86,47.3,4.0,121,Minimalist,Foam,Walnut Wood,No,2,Yes
+P107,Luxor Leatherette 2 Seater Sofa In Steel Grey Colour,Recliners India,55345,51500,7,Linen,Steel Grey,2 Seater,180x82x84,36.0,3.8,173,Scandinavian,Foam,Teak Wood,Yes,5,Yes
+P108,Scandic Wooden 2 Seater Sofa In Burgundy Colour,Damro,10782,9500,12,Printed Fabric,Burgundy,2 Seater,175x78x82,58.1,4.7,488,Minimalist,High Density Foam,Solid Oak,Yes,2,Yes
+P109,Casper Velvet 2 Seater Sofa In Cognac Colour,@home,55103,41900,24,Top Grain Leather,Cognac,2 Seater,172x76x84,54.4,4.4,211,Contemporary,High Resilience Foam,Solid Rosewood,Yes,2,Yes
+P110,Nordic Linen 2 Seater Sofa In Beige Colour,Evok,57854,43400,25,Jacquard Fabric,Beige,2 Seater,180x82x86,56.3,4.1,36,Modern,High Resilience Foam,Brass Finished Wood,Yes,3,Yes
+P111,Elegance Suede 2 Seater Sofa In Beige Colour,Springwel,15772,12300,22,Genuine Leather,Beige,2 Seater,183x84x88,53.6,4.5,495,Vintage,High Density Foam,Solid Oak,No,1,No
+P112,Brio Polyester 2 Seater Sofa In Caramel Colour,Nilkamal,34513,32400,6,Linen,Caramel,2 Seater,175x78x82,52.4,4.0,427,Modern,Feather + Foam,Wood,Yes,1,No
+P113,Luxe PU Leather 2 Seater Sofa In Olive Green Colour,@home,39079,32800,16,Suede,Olive Green,2 Seater,176x80x84,59.0,4.1,470,Contemporary,Pocket Spring,Teak Wood,Yes,3,Yes
+P114,Heritage Teak 2 Seater Sofa In Red Colour,Recliners India,60173,49300,18,Microfiber,Red,2 Seater,180x82x86,68.1,4.7,578,Bohemian,Feather + Foam,Mango Wood,No,1,Yes
+P115,Studio Cotton 2 Seater Sofa In Dark Brown Colour,Pepperfry,78039,63200,19,Polyester,Dark Brown,2 Seater,180x80x85,37.3,4.8,381,Luxury,Coil Spring,Teak Wood,No,1,Yes
+P116,Zen Recliner 2 Seater Sofa In Black Colour,FabIndia,33905,25800,24,Velvet,Black,2 Seater,180x82x86,72.3,4.2,149,Modern,Foam + Spring,Mango Wood,Yes,1,Yes
+P117,Classic Leather 2 Seater Sofa In Earthy Brown Colour,Springwel,47191,38200,19,Jacquard Fabric,Earthy Brown,2 Seater,185x80x88,77.0,4.4,562,Minimalist,Bonded Foam,Wood,Yes,5,Yes
+P118,Bloom Jacquard 2 Seater Sofa In Off White Colour,FabIndia,62718,54600,13,Genuine Leather,Off White,2 Seater,170x75x80,77.6,4.6,239,Modern,Foam,Stainless Steel,No,7,No
+P119,Futon Convertible 2 Seater Sofa In Tan Colour,@home,15236,12800,16,PU Leather,Tan,2 Seater,180x80x85,74.0,4.3,317,Modern,Foam + Fibre,Metal,Yes,5,Yes
+P120,Royale Silk Velvet 2 Seater Sofa In Light Brown Colour,Nilkamal,23879,19100,20,Microfiber,Light Brown,2 Seater,172x76x84,36.4,4.3,397,Industrial,Memory Foam,Brass Finished Wood,Yes,2,Yes
+P121,Maven Faux Leather 2 Seater Sofa In Olive Green Colour,Godrej Interio,81833,63000,23,Leatherette,Olive Green,2 Seater,188x86x92,39.1,5.0,95,Modern,Coil Spring,Walnut Wood,No,7,Yes
+P122,Comfort Plus Fabric 2 Seater Sofa In Dusty Rose Colour,Evok,87956,82700,6,Jacquard Fabric,Dusty Rose,2 Seater,183x84x88,80.7,4.3,331,Scandinavian,High Resilience Foam,Plastic,Yes,1,Yes
+P123,Aria Fabric 2 Seater Sofa In Off White Colour,Stanley,39102,29300,25,Jacquard Fabric,Off White,2 Seater,174x78x84,51.7,4.3,534,Artisanal,Coil Spring,Metal,Yes,7,Yes
+P124,Imperio PU Leather 2 Seater Sofa In Royal Blue Colour,Featherlite,10464,9700,7,Linen,Royal Blue,2 Seater,185x80x88,37.5,4.5,291,Scandinavian,Bonded Foam,Stainless Steel,No,10,Yes
+P125,Meadow Handloom 2 Seater Sofa In Earthy Brown Colour,Featherlite,71049,59000,17,Faux Leather,Earthy Brown,2 Seater,185x82x88,51.4,3.6,81,Traditional,Foam,Reclaimed Wood,No,2,Yes
+P126,Posh Velvet 2 Seater Sofa In Black Colour,@home,48066,43700,9,Microsuede,Black,2 Seater,168x78x80,76.8,4.3,128,Mid-Century Modern,Memory Foam,Solid Rosewood,No,3,Yes
+P127,Serene Microsuede 2 Seater Sofa In Mustard Yellow Colour,Hometown,82403,72500,12,Suede,Mustard Yellow,2 Seater,168x74x82,87.9,4.9,355,Bohemian,Pocket Spring,Solid Wood,Yes,2,No
+P128,Tropicana Printed 2 Seater Sofa In Burgundy Colour,Recliners India,51298,48700,5,PU Leather,Burgundy,2 Seater,180x82x86,40.0,4.1,488,Industrial,Foam + Fibre,Reclaimed Wood,No,5,No
+P129,Monarch Leather 2 Seater Sofa In Ash Grey Colour,Featherlite,11761,9600,18,Jacquard Fabric,Ash Grey,2 Seater,180x82x84,42.4,3.9,394,Contemporary,Foam,Teak Wood,No,2,Yes
+P130,Plush Fabric 2 Seater Sofa In Charcoal Colour,Urban Ladder,37410,31100,17,Silk Velvet,Charcoal,2 Seater,172x76x82,62.7,4.6,306,Contemporary,Bonded Foam,Brass Finished Wood,No,7,Yes
+P131,Vintage Reclaimed 2 Seater Sofa In White Colour,Damro,39728,35400,11,Chenille,White,2 Seater,176x80x84,68.1,4.1,61,Scandinavian,High Density Foam,Walnut Wood,No,7,Yes
+P132,Alesund Fabric 2 Seater Sofa In Carbon Grey Colour,Recliners India,40325,33500,17,Handloom Cotton,Carbon Grey,2 Seater,185x80x88,89.5,4.6,326,Artisanal,Feather + Foam,Solid Wood,Yes,3,Yes
+P133,Regal Chesterfield 2 Seater Sofa In Floral Pink Colour,Evok,38592,31600,18,Top Grain Leather,Floral Pink,2 Seater,180x82x84,67.1,4.7,47,Bohemian,Bonded Foam,Teak Wood,Yes,3,Yes
+P134,Compact Polyester 2 Seater Sofa In Dark Blue Colour,Featherlite,64685,56900,12,Genuine Leather,Dark Blue,2 Seater,180x82x84,36.7,4.9,132,Vintage,Foam,Solid Rosewood,Yes,7,Yes
+P135,Comfy Microfiber 2 Seater Sofa In Mustard Yellow Colour,Recliners India,59082,53800,9,Faux Leather,Mustard Yellow,2 Seater,172x76x82,63.5,4.3,509,Scandinavian,Foam + Spring,Stainless Steel,No,7,Yes
+P136,Havana Leather 2 Seater Sofa In Off White Colour,Nilkamal,67601,59500,12,Microsuede,Off White,2 Seater,176x80x84,50.3,3.9,324,Artisanal,Memory Foam,Brass Finished Wood,No,10,Yes
+P137,Porto Velvet 2 Seater Sofa In Sky Blue Colour,Durian,19395,15100,22,Handloom Cotton,Sky Blue,2 Seater,182x80x88,55.9,5.0,373,Classic,Feather + Foam,Mango Wood,No,2,No
+P138,Cairo Linen 2 Seater Sofa In Dark Green Colour,Godrej Interio,50699,45100,11,Cotton Fabric,Dark Green,2 Seater,168x73x78,46.1,4.3,595,Contemporary,Coil Spring,Stainless Steel,No,5,Yes
+P139,Oslo Fabric 2 Seater Sofa In Carbon Grey Colour,Hometown,11641,9500,18,Genuine Leather,Carbon Grey,2 Seater,180x82x86,53.2,4.2,160,Mid-Century Modern,Foam,Plastic,Yes,2,Yes
+P140,Kyoto Suede 2 Seater Sofa In Olive Green Colour,Nilkamal,44353,33300,25,Faux Leather,Olive Green,2 Seater,185x82x88,38.3,4.7,257,Luxury,Feather + Foam,Reclaimed Wood,Yes,2,Yes
+P141,Lima Cotton 2 Seater Sofa In Burgundy Colour,Urban Ladder,36228,34400,5,Microfiber,Burgundy,2 Seater,178x80x84,51.4,4.4,363,Minimalist,Foam + Fibre,Wood,No,1,Yes
+P142,Vienna Chenille 2 Seater Sofa In Steel Grey Colour,Zuari,15417,13900,10,Printed Fabric,Steel Grey,2 Seater,180x80x85,75.2,4.5,210,Bohemian,Foam + Fibre,Brass Finished Wood,No,2,Yes
+P143,Berlin Fabric 2 Seater Sofa In Off White Colour,Woodcraft,37843,31400,17,PU Leather,Off White,2 Seater,178x80x84,71.8,3.8,163,Scandinavian,Bonded Foam,Plastic,No,7,Yes
+P144,Roma Leatherette 2 Seater Sofa In Rustic Brown Colour,Stanley,54087,41600,23,Fabric,Rustic Brown,2 Seater,180x80x85,35.6,4.5,261,Casual,Foam + Spring,Sheesham Wood,No,3,Yes
+P145,Seoul Velvet 2 Seater Sofa In Dark Brown Colour,Furlenco,47044,35800,24,Cotton Fabric,Dark Brown,2 Seater,180x82x86,47.1,4.9,509,Scandinavian,Foam + Spring,Plastic,No,1,Yes
+P146,Dubai Leather 2 Seater Sofa In Burgundy Colour,Damro,18609,15100,19,Jacquard Fabric,Burgundy,2 Seater,192x88x105,64.0,4.0,597,Minimalist,High Resilience Foam,Reclaimed Wood,Yes,2,Yes
+P147,Paris Jacquard 2 Seater Sofa In Cognac Colour,Zuari,62618,55700,11,Printed Fabric,Cognac,2 Seater,168x78x80,74.4,4.2,542,Mid-Century Modern,Bonded Foam,Brass Finished Wood,Yes,3,Yes
+P148,Tokyo Microfiber 2 Seater Sofa In Cream Colour,Furlenco,75197,71400,5,Linen,Cream,2 Seater,183x84x88,56.8,4.7,243,Artisanal,Foam + Spring,Reclaimed Wood,Yes,7,Yes
+P149,Sydney Fabric 2 Seater Sofa In Cream Colour,IKEA,14703,12100,18,Jacquard Fabric,Cream,2 Seater,165x72x78,44.9,3.7,450,Vintage,High Density Foam,Brass Finished Wood,Yes,5,Yes
+P150,Tochi Fabric 2 Seater Sofa In Graphite Colour,Sarita Handa,12924,10100,22,Microsuede,Graphite,2 Seater,168x73x78,56.6,3.7,248,Rustic,Foam + Spring,Walnut Wood,Yes,3,Yes
+P151,Frejol Velvet 2 Seater Sofa In Earthy Brown Colour,Wakefit,27547,23100,16,Cotton Fabric,Earthy Brown,2 Seater,182x80x88,43.5,3.8,135,Bohemian,High Resilience Foam,Walnut Wood,No,2,Yes
+P152,Jessy Fabric 2 Seater Sofa In Dusty Rose Colour,IKEA,14009,13200,6,Fabric,Dusty Rose,2 Seater,168x74x82,57.1,3.9,242,Mid-Century Modern,Pocket Spring,Metal,Yes,5,Yes
+P153,Bari Leatherette 2 Seater Sofa In Earthy Brown Colour,Urban Ladder,42763,36800,14,Linen,Earthy Brown,2 Seater,190x85x90,83.2,5.0,553,Artisanal,Coil Spring,Sheesham Wood,No,10,Yes
+P154,Alejandro Velvet 2 Seater Sofa In Tan Colour,FabIndia,58073,48800,16,Velvet,Tan,2 Seater,170x75x80,86.8,4.5,557,Artisanal,Bonded Foam,Stainless Steel,No,7,Yes
+P155,Miranda Chenille 2 Seater Sofa In Black Colour,IKEA,24928,22700,9,Linen,Black,2 Seater,192x88x105,79.3,4.9,595,Casual,Foam + Spring,Solid Wood,No,2,Yes
+P156,Andres Chenille 2 Seater Sofa In Black Colour,Zuari,17369,14600,16,Printed Fabric,Black,2 Seater,174x78x84,40.1,4.6,215,Scandinavian,Foam + Spring,Sheesham Wood,Yes,3,Yes
+P157,Luxor Leatherette 2 Seater Sofa In Red Colour,Damro,34246,29100,15,Velvet,Red,2 Seater,192x88x105,51.7,4.9,236,Rustic,High Density Foam,Sheesham Wood,Yes,5,No
+P158,Scandic Wooden 2 Seater Sofa In Burgundy Colour,Hometown,44276,36700,17,Handloom Cotton,Burgundy,2 Seater,172x76x82,60.6,4.5,335,Mid-Century Modern,Bonded Foam,Stainless Steel,No,2,Yes
+P159,Casper Velvet 2 Seater Sofa In Floral Pink Colour,@home,48564,45700,6,Microsuede,Floral Pink,2 Seater,176x79x84,65.9,3.8,169,Modern,Feather + Foam,Solid Oak,Yes,3,Yes
+P160,Nordic Linen 2 Seater Sofa In Olive Green Colour,Featherlite,28181,22000,22,Faux Leather,Olive Green,2 Seater,176x79x84,71.0,4.5,283,Casual,Foam + Fibre,Sheesham Wood,Yes,3,Yes
+P161,Elegance Suede 2 Seater Sofa In Caramel Colour,@home,18584,17500,6,Microsuede,Caramel,2 Seater,168x78x80,81.1,3.6,69,Scandinavian,Memory Foam,Solid Wood,No,1,Yes
+P162,Brio Polyester 2 Seater Sofa In Black Colour,Godrej Interio,17916,14300,20,Genuine Leather,Black,2 Seater,172x76x82,35.9,4.3,441,Modern,Foam + Fibre,Wood,No,3,Yes
+P163,Luxe PU Leather 2 Seater Sofa In Floral Pink Colour,FabIndia,11578,9100,21,Top Grain Leather,Floral Pink,2 Seater,188x86x92,43.2,3.8,559,Casual,Foam,Brass Finished Wood,No,1,Yes
+P164,Heritage Teak 2 Seater Sofa In Charcoal Colour,FabIndia,37642,28200,25,Silk Velvet,Charcoal,2 Seater,180x80x85,89.5,4.5,52,Modern,Memory Foam,Walnut Wood,Yes,2,Yes
+P165,Studio Cotton 2 Seater Sofa In Red Colour,Sarita Handa,83437,62600,25,Top Grain Leather,Red,2 Seater,160x70x75,78.1,4.3,117,Bohemian,Foam,Plastic,Yes,1,Yes
+P166,Zen Recliner 2 Seater Sofa In Rustic Brown Colour,Urban Ladder,52795,40700,23,Genuine Leather,Rustic Brown,2 Seater,174x78x84,71.2,3.8,342,Mid-Century Modern,Bonded Foam,Reclaimed Wood,Yes,1,Yes
+P167,Classic Leather 2 Seater Sofa In Ash Grey Colour,Featherlite,29285,24300,17,Linen,Ash Grey,2 Seater,175x78x82,72.2,4.3,413,Industrial,Foam + Spring,Metal,Yes,10,Yes
+P168,Bloom Jacquard 2 Seater Sofa In Carbon Grey Colour,Pepperfry,15580,11800,24,Printed Fabric,Carbon Grey,2 Seater,168x74x82,77.3,4.9,426,Vintage,Memory Foam,Wood,No,2,No
+P169,Futon Convertible 2 Seater Sofa In Off White Colour,Wakefit,83302,75000,10,Suede,Off White,2 Seater,172x76x84,72.4,4.5,107,Industrial,Feather + Foam,Reclaimed Wood,No,7,Yes
+P170,Royale Silk Velvet 2 Seater Sofa In Tan Colour,Stanley,46820,43100,8,Leatherette,Tan,2 Seater,178x80x84,40.0,4.9,475,Modern,Coil Spring,Solid Wood,Yes,3,Yes
+P171,Maven Faux Leather 2 Seater Sofa In Dark Blue Colour,Hometown,11468,9600,16,Linen,Dark Blue,2 Seater,180x80x85,65.5,4.4,352,Modern,Foam + Fibre,Walnut Wood,No,1,Yes
+P172,Comfort Plus Fabric 2 Seater Sofa In Grey Colour,Woodcraft,31229,25900,17,Faux Leather,Grey,2 Seater,182x80x88,44.3,3.9,294,Minimalist,High Density Foam,Stainless Steel,Yes,10,Yes
+P173,Aria Fabric 2 Seater Sofa In Beige Colour,Nilkamal,43081,32300,25,Faux Leather,Beige,2 Seater,180x82x84,62.3,4.4,488,Casual,Foam + Spring,Teak Wood,Yes,3,Yes
+P174,Imperio PU Leather 2 Seater Sofa In Tan Colour,Wakefit,63922,55000,14,Silk Velvet,Tan,2 Seater,176x79x84,52.6,4.9,225,Classic,Bonded Foam,Walnut Wood,No,3,Yes
+P175,Meadow Handloom 2 Seater Sofa In Ivory Colour,Sarita Handa,47876,40200,16,Polyester,Ivory,2 Seater,172x76x84,41.3,4.3,578,Casual,Feather + Foam,Solid Rosewood,No,3,Yes
+P176,Posh Velvet 2 Seater Sofa In Earthy Brown Colour,Zuari,16703,13400,20,Fabric,Earthy Brown,2 Seater,172x76x82,42.7,4.0,278,Vintage,Feather + Foam,Stainless Steel,No,2,Yes
+P177,Serene Microsuede 2 Seater Sofa In Sky Blue Colour,IKEA,57410,48200,16,Silk Velvet,Sky Blue,2 Seater,180x82x84,73.6,4.7,107,Modern,Feather + Foam,Solid Rosewood,No,7,Yes
+P178,Tropicana Printed 2 Seater Sofa In Teal Colour,Springwel,61944,58800,5,Microfiber,Teal,2 Seater,183x84x88,40.4,3.8,551,Luxury,Bonded Foam,Wood,No,3,Yes
+P179,Monarch Leather 2 Seater Sofa In Sky Blue Colour,Featherlite,17909,16500,8,Genuine Leather,Sky Blue,2 Seater,180x80x85,51.2,4.9,107,Bohemian,Memory Foam,Walnut Wood,Yes,3,Yes
+P180,Plush Fabric 2 Seater Sofa In Burgundy Colour,Godrej Interio,61398,49700,19,Jacquard Fabric,Burgundy,2 Seater,172x76x82,74.7,4.2,88,Casual,Memory Foam,Reclaimed Wood,No,3,Yes
+P181,Vintage Reclaimed 2 Seater Sofa In Dark Green Colour,Hometown,29043,26100,10,Fabric,Dark Green,2 Seater,168x74x82,53.2,4.1,493,Rustic,Memory Foam,Plastic,Yes,2,Yes
+P182,Alesund Fabric 2 Seater Sofa In Red Colour,Nilkamal,80483,76500,5,Microfiber,Red,2 Seater,160x70x75,73.8,3.8,84,Luxury,Foam + Spring,Walnut Wood,Yes,5,Yes
+P183,Regal Chesterfield 2 Seater Sofa In Dark Green Colour,Zuari,89585,67200,25,Microfiber,Dark Green,2 Seater,180x80x85,52.2,4.1,421,Classic,Memory Foam,Sheesham Wood,Yes,2,Yes
+P184,Compact Polyester 2 Seater Sofa In Charcoal Colour,Springwel,12194,10400,15,Microsuede,Charcoal,2 Seater,188x86x92,41.5,4.0,207,Traditional,Foam + Fibre,Plastic,No,10,Yes
+P185,Comfy Microfiber 2 Seater Sofa In Carbon Grey Colour,Evok,27974,21000,25,Silk Velvet,Carbon Grey,2 Seater,183x84x88,64.6,4.9,197,Minimalist,Bonded Foam,Solid Wood,No,3,Yes
+P186,Havana Leather 2 Seater Sofa In Caramel Colour,Woodcraft,17939,16300,9,Linen,Caramel,2 Seater,185x80x88,45.7,4.1,595,Scandinavian,Memory Foam,Reclaimed Wood,Yes,3,Yes
+P187,Porto Velvet 2 Seater Sofa In Caramel Colour,IKEA,13613,11700,14,Handloom Cotton,Caramel,2 Seater,170x75x80,36.8,3.8,315,Minimalist,Feather + Foam,Reclaimed Wood,Yes,10,Yes
+P188,Cairo Linen 2 Seater Sofa In Mustard Yellow Colour,Featherlite,52762,49600,6,Handloom Cotton,Mustard Yellow,2 Seater,183x84x88,76.8,4.2,243,Artisanal,High Resilience Foam,Metal,Yes,2,No
+P189,Oslo Fabric 2 Seater Sofa In Dark Brown Colour,Stanley,62694,55200,12,Cotton Fabric,Dark Brown,2 Seater,174x78x84,46.5,4.6,379,Rustic,Foam,Reclaimed Wood,No,1,Yes
+P190,Kyoto Suede 2 Seater Sofa In White Colour,IKEA,52442,45600,13,Microfiber,White,2 Seater,172x76x82,67.8,3.8,319,Traditional,Foam + Fibre,Solid Oak,Yes,1,Yes
+P191,Lima Cotton 2 Seater Sofa In Dark Blue Colour,Evok,22397,19000,15,Chenille,Dark Blue,2 Seater,174x78x84,80.6,4.6,422,Scandinavian,Foam + Spring,Wood,Yes,1,Yes
+P192,Vienna Chenille 2 Seater Sofa In Royal Blue Colour,FabIndia,47094,38100,19,Faux Leather,Royal Blue,2 Seater,185x82x88,87.3,4.0,22,Minimalist,Feather + Foam,Metal,Yes,3,Yes
+P193,Berlin Fabric 2 Seater Sofa In Light Brown Colour,Pepperfry,68884,55100,20,Microsuede,Light Brown,2 Seater,182x80x88,49.8,4.7,365,Luxury,Memory Foam,Metal,No,2,Yes
+P194,Roma Leatherette 2 Seater Sofa In Carbon Grey Colour,Featherlite,17529,16700,5,Handloom Cotton,Carbon Grey,2 Seater,192x88x105,41.8,4.8,471,Industrial,Memory Foam,Plastic,Yes,1,Yes
+P195,Seoul Velvet 2 Seater Sofa In Black Colour,Durian,37701,31700,16,Linen,Black,2 Seater,174x78x84,71.5,4.5,73,Luxury,Coil Spring,Solid Wood,Yes,3,Yes
+P196,Dubai Leather 2 Seater Sofa In Tan Colour,Stanley,60108,54700,9,Faux Leather,Tan,2 Seater,168x74x82,67.7,4.3,475,Luxury,High Density Foam,Stainless Steel,Yes,2,Yes
+P197,Paris Jacquard 2 Seater Sofa In Sky Blue Colour,Recliners India,26277,24400,7,Chenille,Sky Blue,2 Seater,168x78x80,75.2,3.7,340,Rustic,Foam + Spring,Stainless Steel,No,1,Yes
+P198,Tokyo Microfiber 2 Seater Sofa In Tan Colour,Godrej Interio,19999,15000,25,Silk Velvet,Tan,2 Seater,185x84x86,44.0,4.0,238,Industrial,Foam + Fibre,Plastic,Yes,1,Yes
+P199,Sydney Fabric 2 Seater Sofa In Carbon Grey Colour,IKEA,78039,64000,18,Microsuede,Carbon Grey,2 Seater,168x74x82,52.3,3.7,303,Rustic,Pocket Spring,Metal,Yes,1,Yes
+P200,Tochi Fabric 2 Seater Sofa In Teal Colour,Zuari,32253,26800,17,Cotton Fabric,Teal,2 Seater,175x78x82,51.3,3.6,265,Industrial,Foam,Plastic,Yes,7,Yes
